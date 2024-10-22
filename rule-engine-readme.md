@@ -154,27 +154,17 @@ data = {
 }
 ```
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
 ## Known Limitations
-1. Currently supports only AND/OR operators
+1. Currently supports only AND/OR operators.
 2. Limited to comparison operations (>, <, >=, <=, =, !=)
-3. No support for custom functions in rules
-4. Command-line interface only (no web interface)
+3. No support for custom functions in rules.
+4. Command-line interface only.
 
 ## Future Enhancements
-1. Web-based user interface
-2. Support for more complex operators
-3. Custom function support in rules
-4. Performance optimizations for large rule sets
-5. Rule versioning and history tracking
-6. Export/import functionality for rules
+1. Web-based user interface.
+2. Support for more complex operators.
+3. Custom function support in rules.
+4. Performance optimizations for large rule sets.
 
 ## Troubleshooting
 
@@ -193,7 +183,3 @@ data = {
    - Verify data types match the rule requirements
    - Check for missing attributes in input data
    - Ensure values are within expected ranges
-
-### Support
-
-For issues, questions, or contributions, please create an issue in the repository or contact the maintainers.
