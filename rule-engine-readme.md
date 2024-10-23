@@ -12,7 +12,7 @@ A simple 3-tier rule engine application that determines user eligibility based o
 - [Project Structure](#project-structure)
 - [API Reference](#api-reference)
 - [Examples](#examples)
-- [Contributing](#contributing)
+- [Contributing](#features)
 
 ## Features
 - AST-based rule representation
